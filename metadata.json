@@ -1,0 +1,7 @@
+{
+  "name": "DiffuSong: Latent Audio Architect",
+  "description": "A cutting-edge song composition suite that uses Gemini's reasoning to simulate latent diffusion processes for music creation. Design lyrics, structure, and visual identities using advanced AI models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
